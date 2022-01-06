@@ -1,0 +1,118 @@
+h1{
+    font-size: 45px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: none;
+}
+.keep-border-left{
+    border-left: 5px solid rgb(228, 124, 124) ;
+    line-height: 33px;
+    border-radius: 2px;
+    padding-left: 10px ;
+}
+
+.heading-2nd{
+    color: orange;
+}
+.button{
+    text-decoration: none;
+    border: 1px solid;
+    color:whitesmoke;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: lightcoral;
+    font-weight: 700px;
+}
+.stay-focused{
+    display: flex;
+    text-align: center;  
+}
+
+.stay-part-2 img{
+    width: 70%;
+    padding-left: 100px;
+    border: 10px solid white;
+    border-radius: 50px;
+    background-image: url(images/shape-3.png);
+    
+}
+
+.stay-part-1{
+    margin-left: 120px ;
+    margin-top: 100px;
+}
+.stay-part-2{
+    margin-left: 150px ;
+    margin-top: 50px;
+}
+#color-3rd-heading{
+    color: orange;
+}
+.heading-3rd{
+    text-align: center;
+}
+.my-mission{
+    display: flex;
+    margin: 5%;
+}
+.my-mission img{
+    width: 40%;
+}
+.margin-misson-p1{
+    margin: 1%;
+    border: 5px solid lightyellow;
+    border-radius: 40px;
+    background-color: lightyellow;
+}
+.margin-misson-p2{
+    margin: 1%;
+    border: 5px solid linen;
+    border-radius: 40px;
+    background-color: linen;
+}
+.margin-misson-p3{
+    margin: 1%;
+    border: 5px solid lightskyblue;
+    border-radius: 40px;
+    background-color: lightskyblue;
+}
+.develop img{
+    width: 80%;
+}
+.develop{
+    display: flex;
+    margin: 6%;
+}
+.Bundle-services{
+    display: flex;
+    background-color: lightpink;
+}
+.research{
+    display: flex;
+    margin: 5%;
+}
+
+.research-p2{
+    display: flex;
+    border: 10px lightpink ;
+    background-color: lightpink;
+    padding-left:10px ;
+    border-radius: 10px;
+    margin-left:4px ;
+}
+
+.research-p1{
+    display: flex;
+    border: 10px lightsalmon ;
+    background-color: lightsalmon;
+    padding-left:10px ;
+    border-radius: 10px;
+}
+
+.ending{
+    text-align: center;
+    background-color: bisque;
+    padding: 50px;
+}
+
